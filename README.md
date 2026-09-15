@@ -8,8 +8,7 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
-
+Best Crew
 ## Members
 
-- _nobody has signed on yet_
+Eesha
