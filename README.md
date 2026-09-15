@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+flesh cube
 
 ## Members
 
-- _nobody has signed on yet_
+yvg-creator
