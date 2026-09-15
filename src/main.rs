@@ -1,4 +1,5 @@
 /// Your crew's name. Both of you are going to change this line.
+const CREW_NAME: &str = "flesh cube";
 const CREW_NAME: &str = "Best Crew";
 
 /// Your crew's motto. You will both change this one too, earlier and separately.
@@ -10,6 +11,7 @@ fn main() {
     println!("Crew roster:");
 
     // ROSTER: replace the line below with one for yourself.
+    println!("  (" - yvg-creator");
     println!("  ( -Eesha)");
 
     println!();
